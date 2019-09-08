@@ -1,0 +1,8 @@
+Actual_Yes  Predicted_Yes  Predicted_No  
+
+588  430  158  
+
+Actual_No  Predicted_Yes  Predicted_No  
+
+1162  27  1135  
+

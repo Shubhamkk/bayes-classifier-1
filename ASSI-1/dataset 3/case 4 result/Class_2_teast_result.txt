@@ -1,0 +1,8 @@
+Actual_Yes  Predicted_Yes  Predicted_No  
+
+588  562  26  
+
+Actual_No  Predicted_Yes  Predicted_No  
+
+1162  217  945  
+

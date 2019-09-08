@@ -1,0 +1,8 @@
+Actual_Yes  Predicted_Yes  Predicted_No  
+
+622  574  48  
+
+Actual_No  Predicted_Yes  Predicted_No  
+
+1128  154  974  
+

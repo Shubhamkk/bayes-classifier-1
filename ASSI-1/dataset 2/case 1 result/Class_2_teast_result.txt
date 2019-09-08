@@ -1,0 +1,8 @@
+Actual_Yes  Predicted_Yes  Predicted_No  
+
+124  82  42  
+
+Actual_No  Predicted_Yes  Predicted_No  
+
+248  20  228  
+
